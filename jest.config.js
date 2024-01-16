@@ -4,5 +4,5 @@ module.exports = async () => {
       testTimeout: 30000,
       maxWorkers: 1
     };
-  }; 
+  };
   
